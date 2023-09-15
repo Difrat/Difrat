@@ -3,7 +3,7 @@
 ## Profile
 
 Я начинающий Python разработчик.
-Меня интересует направления <b>Back-End</b> и <b>DataScience</b> и я хотел бы получить работу на позицию <b>Junior Python Developer</b>
+Меня интересует направления <b>Back-End</b> и <b>DataScience</b> и я хотел бы получить работу на позиции <b>Junior Python Developer</b>
 
 ## Skills
 
