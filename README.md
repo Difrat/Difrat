@@ -10,7 +10,7 @@
 
 Python, PostgreSQL, Docker, HTML5, CSS.
 
-<a href='https://leetcode.com/bozhenkomv1/'><big>Мой профиль на LeetCode</big></a>
+<a href='https://leetcode.com/bozhenkomv1/'><font size="7">Мой профиль на LeetCode</font></a>
 
 
 ## Stack of used libraries
