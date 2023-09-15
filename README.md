@@ -9,8 +9,12 @@
 ## Skills
 
 Python, PostgreSQL, Docker, HTML5, CSS.
-
-<p><font size="7">Мой профиль на LeetCode</font></p>
+<style>
+  p {
+    font-size: 20pt;
+  }
+</style>
+<p>Мой профиль на LeetCode</p>
 
 
 ## Stack of used libraries
