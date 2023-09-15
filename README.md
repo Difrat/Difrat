@@ -3,13 +3,14 @@
 ## Profile
 
 Я начинающий Python разработчик.
-Меня интересует направления <b>Back-End</b> и <b>DataScience</b> и я хотел бы получить работу на позиции <b>Junior Python Developer</b>
+Меня интересует направления <b>Back-End</b> и <b>DataScience</b>.
+Я ищу оплачиваемую стажировку или предложение работы на позицию <b>Junior Python Developer</b> по одному из выше указаннныйх или смежных направлениях.
 
 ## Skills
 
 Python, PostgreSQL, Docker, HTML5, CSS.
 
-<a href='https://leetcode.com/bozhenkomv1/'>## LeetCode</a>
+<big><a href='https://leetcode.com/bozhenkomv1/'>Мой провиль на LeetCode</a></big>
 
 
 ## Stack of used libraries
