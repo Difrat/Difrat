@@ -3,18 +3,21 @@
 ## Profile
 
 Я начинающий Python разработчик.
-Меня интересует направления Back-End и DataScience 
+Меня интересует направления <bold>Back-End</bold> и <bold>DataScience</bold> и я хотел бы получить работу на позицию <bold>Junior Python Developer</bold>
 
 ## Skills
 
 Python, PostgreSQL, Docker, HTML5, CSS.
+
+<a href='https://leetcode.com/bozhenkomv1/'>## LeetCode</a>
+
 
 ## Stack of used libraries
 
 <em>aiohttp, aiogram, asincio, aioschedule
 bs4, lxml, reqests, 
 json, csv,
-psycopg2,
+psycopg2, NumPy, Pandas,
 os, sys</em>
 
 
