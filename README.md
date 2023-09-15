@@ -1,9 +1,9 @@
-<h1>Hi i'm  Michail 👋</h1>
+<h1>Hi i'm  Michael 👋</h1>
 
 ## Profile
 
 Я начинающий Python разработчик.
-Меня интересует направления Back-End, Data Engineer 
+Меня интересует направления Back-End и DataScience 
 
 ## Skills
 
@@ -11,11 +11,11 @@ Python, PostgreSQL, Docker, HTML5, CSS.
 
 ## Stack of used libraries
 
-aiohttp, aiogram, asincio, aioschedule
+<em>aiohttp, aiogram, asincio, aioschedule
 bs4, lxml, reqests, 
 json, csv,
 psycopg2,
-os, sys,
+os, sys</em>
 
 
 
