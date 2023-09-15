@@ -1,4 +1,4 @@
-### Hi i'm  Michail 👋
+<h1>Hi i'm  Michail 👋</h1>
 
 ## Profile
 
@@ -11,10 +11,13 @@ Python, PostgreSQL, Docker, HTML5, CSS.
 
 ## Stack of used libraries
 
-aiohttp, aiogram, asincio
+aiohttp, aiogram, asincio, aioschedule
 bs4, lxml, reqests, 
-json, csv 
+json, csv,
+psycopg2,
 os, sys,
+
+
 
 <!--
 **Difrat/Difrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
