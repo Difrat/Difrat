@@ -14,10 +14,10 @@ Python, PostgreSQL, Docker, HTML5, CSS.
 
 ## Stack of used libraries
 
-<em>aiohttp, aiogram, asincio, aioschedule
+<em>aiohttp, aiogram, asincio, aioschedule,
 bs4, lxml, reqests, 
 json, csv,
-psycopg2, NumPy, Pandas,
+psycopg2, NumPy,
 os, sys</em>
 
 
