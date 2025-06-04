@@ -18,7 +18,7 @@ Python, PostgreSQL, Docker, HTML5, CSS.
 bs4, lxml, reqests, 
 json, csv,
 psycopg2, NumPy,
-os, sys</em>
+os, sys, pytorch, pandas</em>
 
 
 
