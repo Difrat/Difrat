@@ -5,11 +5,10 @@
 Я начинающий Python разработчик.
 Меня интересует направления <b>Back-End</b> и <b>DataScience</b>.
 Я ищу оплачиваемую стажировку или предложение работы на позицию <b>Junior Python Developer</b> по одному из выше указаннныйх или смежных направлениях.
-Моя первая нейронная сеть -> https://github.com/Difrat/NNGreyscale.git
 
 ## Skills
 
-Python, PostgreSQL, Docker, HTML5, CSS.
+Python, PostgreSQL, Docker, HTML5, CSS, PyTorch.
 
 <a href = 'https://leetcode.com/bozhenkomv1/'>Мой профиль на LeetCode</a>
 ## My projects
@@ -24,7 +23,7 @@ Aiogram chatbot. Данный проект был посвещенн асинх�
 bs4, lxml, reqests, 
 json, csv,
 psycopg2, NumPy,
-os, sys, pytorch, pandas, pytorch</em>
+os, sys, pytorch, pandas</em>
 
 
 
