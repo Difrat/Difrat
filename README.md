@@ -14,7 +14,7 @@ Python, PostgreSQL, Docker, HTML5, CSS, PyTorch.
 ## My projects
 
 Простая нейросеть на PyTorch. Определяет в градациях серого какого цвета пиксель -> https://github.com/Difrat/NNGreyscale.git
-Aiogram chatbot. Данный проект был посвещенн асинхроному программированию и парсингу -> https://github.com/Difrat/Bot_news.git
+Данный проект был посвещенн асинхроному программированию и парсингу -> https://github.com/Difrat/Bot_news.git
 Сортировщик файлов в папке, тут я изучал автотесты и библеотеки для тестирования -> https://github.com/Difrat/Sorter_file.git
 
 ## Stack of used libraries
