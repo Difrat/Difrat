@@ -14,7 +14,9 @@ Python, PostgreSQL, Docker, HTML5, CSS.
 <a href = 'https://leetcode.com/bozhenkomv1/'>Мой профиль на LeetCode</a>
 ## My projects
 
-Моя первая нейронная сеть -> https://github.com/Difrat/NNGreyscale.git
+Простая нейросеть на PyTorch. Определяет в градациях серого какого цвета пиксель -> https://github.com/Difrat/NNGreyscale.git
+Aiogram chatbot. Данный проект был посвещенн асинхроному программированию и парсингу -> https://github.com/Difrat/Bot_news.git
+Сортировщик файлов в папке, тут я изучал автотесты и библеотеки для тестирования -> https://github.com/Difrat/Sorter_file.git
 
 ## Stack of used libraries
 
@@ -22,7 +24,7 @@ Python, PostgreSQL, Docker, HTML5, CSS.
 bs4, lxml, reqests, 
 json, csv,
 psycopg2, NumPy,
-os, sys, pytorch, pandas</em>
+os, sys, pytorch, pandas, pytorch</em>
 
 
 
